@@ -1,0 +1,14 @@
+{
+    "app.teamhub.apiKey": "AIzaSyD6xLIKw3Nx1gjcQF941BKb7eQXm9aGskc",
+    "app.teamhub.applicationId":  "dev.teamhub.core" ,
+    "app.teamhub.azureAuthClientId": "AFC23FA6-1E73-4D27-9C01-E5A85A5EF8DF" ,
+    "app.teamhub.bitbucketAddonKey": "teamhub-dev" ,
+    "app.teamhub.bitbucketClientId": "WxvSgp9KRsSyDeGknG" ,
+    "app.teamhub.databaseUrl": "https://teamhub-dev.firebaseio.com" ,
+    "app.teamhub.githubAppId": "teamhub-dev" ,
+    "app.teamhub.githubClientId": "Iv1.93cbdc147155d21f" ,
+    "app.teamhub.host": "teamhub-dev.firebaseapp.com" ,
+    "app.teamhub.projectId" :"teamhub-dev" ,
+    "app.teamhub.storageBucket": "teamhub-dev.appspot.com" 
+    
+}
